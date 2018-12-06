@@ -1,0 +1,254 @@
+* MOCO SETUP
+:properties:
+:header-args: :cache yes :comments org :padline yes :results silent
+:header-args:sh: :noweb tangle :shebang "#!/bin/sh" :tangle moco.command
+:end:
+#+startup: showall nohideblocks hidestars indent
+
+#+begin_quote
+Make and distribute CfP for conferences.
+#+end_quote
+
+** CfP :CfP:
+
+6th International Conference on Movement and Computing (MOCO19)
+https://moco19.movementcomputing.org/
+10-12th October,  Tempe, Arizona
+Arizona State University, USA
+
+Arizona State University [ASU] will host the 2019 the 6th International Conference on Movement and Computing [MOCO] which is to be held in Tempe, Arizona.
+
+The MOCO 2019 theme will be Movement Imaginaries. Paper presentations, panels, performances, demos, workshops on all MOCO-related topics are welcome. MOCO is an interdisciplinary conference that explores the use of computational technology to support and understand human movement practice, as well as movement as a means of interacting with computers. We welcome submissions with an interdisciplinary understanding of movement that ranges from biomechanics to embodied cognition and the phenomenology of bodily experience and identities. We therefore invite submissions from a wide range of disciplines including, but not limited to: Human-Computer Interaction, Psychology, Dance, Artificial Intelligence, Neuroscience, Sports Science, Machine Learning, Cognitive Science, Visual Arts, Robotics, Philosophy, Anthropology, Music, Affective Computing, Games, Healthcare and Animation.
+
+All proposal abstracts for roundtables, panel sessions, contributed papers, and posters must be submitted by Wednesday, February 27, 2019 (midnight EDT). See Submissions for more information and the full CFP.
+
+*** Important Dates
+
+
+NB There will be no deadline extensions
+
+| Submission deadline: | 27 February 2019 |
+| Notification:        | 23 May 2019      |
+| Camera ready papers  | 30 June 2019     |
+
+
+**** ABOUT
+
+https://moco19.movementcomputing.org
+https://www.movementcomputing.org/past-conferences/
+
+
+*** Submission
+
+We would like to invite submissions for paper presentations, performances, workshops and more to the 6th International Conference on Movement and Computing (MOCO) which is to be held in Tempe, Arizona.
+
+MOCO is open to a wide range of ways of presenting your work. As well as papers for oral and poster presentations, we invite submission of a wide range of practice work such as demos, performances, games, artistic works and movement workshops (in which participants take part in a guided movement activity). We encourage submitters to be creative in proposals for practice sessions and are open to novel formats.
+
+This requires a wide range of computational tasks including modeling, representation, segmentation, recognition, classification, or generation of movement information but also an interdisciplinary understanding of movement that ranges from biomechanics to embodied cognition and the phenomenology of bodily experience. We therefore invite submissions from a wide range of disciplines including (but not limited to): Human-Computer Interaction, Psychology, Dance, Artificial Intelligence, Neuroscience, Sports Science, Machine Learning, Cognitive Science, Visual Arts, Robotics, Philosophy, Anthropology, Music, Affective Computing, Games, Healthcare and Animation.
+
+*** Suggested Topics
+
+- Expressive movement-based interaction
+- Movement analysis and analytics
+- Machine learning for movement
+- Movement representation
+- Somatic practice and design
+- Modeling movement qualities and expressive movement
+- Mechatronics and creative robotics
+- Design for movement in digital art
+- Gesture Interaction
+- Movement generation
+- Movement and sound interaction
+- Movement computation in ergonomics, sports, and health
+- Sensory-motor learning with audio/visual feedback
+- Embodied cognition and movement
+- Visualizing and sonifying movement
+- Modeling kinaesthetic empathy
+- Embodied and whole body interaction
+- Expressive movement analysis and synthesis
+- Design for movement in digital art
+- Semantic models for movement representation
+- Movement Notation Systems (e.g. Laban or Eshkol-Wachman) and computation
+- Dance and technology
+- Biosensing, biocontrol and movement
+- Movement expression in avatar, artificial agents, virtual humans or robots
+- Music and movement
+- "Philosophical perspectives and reflection on movement and computing
+
+The conference is an opportunity to present a research or study or details of collaborative work. Participants will have the opportunity to offer a presentation of the results of their research on one of the themes of the symposium and to interact with their scientific/ artistic peers, in a friendly and constructive environment. We encourage submission of a wide range of formats, the submission categories are:
+
+- Long paper with oral presentation (8 pages maximum)
+- Short paper with oral presentation (4 pages maximum)
+- Extended abstract with poster presentation 
+  (6 pages maximum in the extended abstract format)
+
+All submissions should be in pdf format and should use the ACM proceedings format: http://www.acm.org/publications/proceedings-template
+
+*** Tracks
+
+MOCO is open to a wide range of ways of presenting your work. Besides papers for oral and poster presentation, we invite submission of practice works such as demos, performances, games, artistic works and movement workshops (in which participants take part in a guided movement activity).
+
+**** Papers and Posters
+
+The conference is an opportunity to present original research and details of collaborative work. Participants will have the opportunity to offer a presentation of the results of their research on one of the themes of the conference and to interact with their scientific/artistic peers, in a friendly and constructive environment. We encourage submission of a wide range of formats. 
+
+Authors of papers and posters may submit an accompanying demonstration proposal in addition to their regular paper or poster submission, by completing the proposal form for practice works (see items 2 and 3 in the next section) and sending it along with their submission. Together with the form, authors have to provide a link to a video about their work. The proposal form for practice works is mandatory for all paper and poster submissions including an accompanying demonstration and must include details about technical set-up and space requirements. 
+
+**** Practice Works
+
+We deliberately use a very open term – “practice work” – to encourage diverse ideas of what practice in movement and computing is and how such practice can be presented. We suggest the following as examples of what a practice work might be, but also stress that the list is not exhaustive and any types of presentation can be considered, the only criteria being excellence of the work and whether it is possible to stage the work given the resources, time and space available to the conference. 
+
+Suggested practice works topics:
+
+- Technology demos
+- Performances (e.g., dance, physical performance, music)
+- Artworks
+- Interactive Installations
+- Movement workshops (i.e., a session in which participants engage in movement based activity)
+- Games
+- Video presentations
+
+Submissions consist of: 
+
+1. An extended abstract (2 pages maximum).
+
+2. The proposal form for practice work,
+   including detailed technical requirements and possible additional information. The form is available as (Ms Excel format) or here (OpenOffice format).
+
+3. Supporting media (videos, pictures, audio, and so on), 
+   which should provide an overview of the practical work and details of the practical and technical requirements for putting the work on (this is very important to ensure that we can accommodate the work within the resources of our conference).
+
+Extended abstract for practice work with presentation format to be suggested by the author for example demonstration, performance, art work, movement workshop, game or other practice presentation (2 pages maximum + Demo proposal form).  Please note that we are an academic conference with a low fee which means we cannot pay for commissioned performances and art work. Also, we cannot guarantee facilities for all possible sessions, so please give full details of your needs in the proposal form so we can judge whether it is possible. 
+
+Submissions will be by extended abstract (2 pages maximum) and a proposal form which will give details of the practical requirements for putting on the work (this is very important to ensure that we can accommodate the work within the resources of our conference).
+
+Please note that we are an academic conference with a low fee which means we cannot pay for commissioned performances and art work. Also, we cannot guarantee facilities for all possible sessions, so please give full details of your needs in the proposal form so we can judge whether it is possible.
+
+**** Doctoral Consortium
+
+Doctoral papers are an opportunity for PhD students to present their work in progress on their doctorate, share and develop their research ideas in a supportive environment and with the participation of experts in the field. Students will have the opportunity to establish a community, together with other doctoral students at a similar stage of their research. Accepted papers will have an oral presentation in a dedicated session. We encourage students to submit a paper even if they are early in their doctoral work.
+
+Papers should not be longer than 4 pages including the references. The first author must be an actual PhD student. Doctoral Consortium papers will be indexed and published in the ACM digital library. Videos and other supplementary materials are highly welcomed. Students accepted to present their work at the Doctoral Consortium must plan to attend it.
+
+*** Submission Format and Procedure
+All submissions must be written in English. Submissions must be in pdf format and they have to be prepared using the ACM proceedings template: http://www.acm.org/publications/proceedings-template 
+
+All contributions must be submitted online through EasyChair: 
+https://easychair.org/conferences/?conf=moco2019
+
+All submissions must be anonymous and will be peer-reviewed. The MOCO proceedings will be indexed and published in the ACM digital library.  
+
+*** CONFERENCE LOCATION
+
+ASU is a massive Research One university, giving the conference access to a great diversity of programs, practices, and scholars working here. MOCO at ASU presents a unique opportunity to build upon existing fields of interests and forge new avenues for research and knowledge creation that resonate across the arts and sciences and branch into health, philosophy, education and other application areas that include both computational techniques and human movement. The range of interdisciplinary labs and centers and the beautiful October weather make this an ideal locale for the conference. ASU is located about fifteen minutes from the Phoenix Airport. 
+
+*** Contact
+
+If you have any questions please contact: mailto:moco2019@easychair.org or [[mailto:2019.moco@gmail.com][Grisha Coleman]]
+
+*** Committee
+
+- Conference Chair: Grisha Coleman (ASU)
+- Scientific Chairs: Sofia Dahl & Cumhur Erkut (Aalborg University)
+- Performance & Practice Chair: Christian Ziegler (ASU)
+- Doctoral Symposium Chair: Garett Laroy Johnson (ASU)
+- Local Organizers: Kimberlee Swisher, Stacey Moran, Julie Ackerly, Jessica Raijko, Adam Nocek, Pavan Turaga
+- Steering Committee: Frédéric Bevilacqua (IRCAM), Sarah Fdili Alaoui (LRI-Université Paris-Sud 11), Jules Françoise (CNRS, Université Paris-Sud Université Paris-Saclay), Philippe Pasquier (Simon Fraser University), Thecla Schiphorst (Simon Fraser University)
+
+http://movementcomputing.org/
+
+
+** TODO Practice Work
+
+** Distribution
+
+*** [#A] Must have Lists 
+
+#+BEGIN_SRC elisp :var _alist=_alist[2:-1,2]
+(compose-mail (string-join _alist ", ") "CfP" nil nil)
+;; (org-map-entries (insert) "CfP")
+(insert "THE BODY OF CFP")
+(message-send-and-exit))
+#+END_SRC
+
+**** _alist
+#+name: _alist
+| NAME         | URL                                                       |                                    | APPRVL | CfP1: Date       | CfP2: Date | Notes          |
+|--------------+-----------------------------------------------------------+------------------------------------+--------+------------------+------------+----------------|
+| MOCO         | https://groups.google.com/forum/#!forum/movementcomputing | movementcomputing@googlegroups.com | cerkut | <2018-11-27 Tue> |            |                |
+| chi-announce | ?                                                         | CHI-ANNOUNCEMENTS@listserv.acm.org | cerkut | <2018-11-27 Tue> |            | 1362 recipents |
+| NIME         | https://groups.google.com/forum/#!forum/nime-community    | nime-community@googlegroups.com    | cerkut | <2018-11-27 Tue> |            |                |
+
+
+
+**** _cfpServices AND OTHER LISTS
+
+| 
+
+| eu-gene      | http://generative.net/pipermail/eu-gene/         | eu-gene@generative.net             | Reject    | <2018-12-06 Thu> |            |       |
+| pd-announce  | http://lists.puredata.info/subscribe/pd-announce | pd-announce@iem.at                 | Moderator |                  |            |       |
+                                               | 		chi-Announcements@acm.org |                        |                               |           |                  |            |       |   |
+
+
+| LURK         | list of lists | https://we.lurk.org  (update rest)                                 | announce@group.lurk.org | announce@group.lurk.org, | mailto:announce@group.lurk.org | Reject    |                  |            |       |
+
+
+EACE	list	http://ii.tudelft.nl/~tjerk/EACE_website/contact.html	elly@cs.vu.nl	elly@cs.vu.nl,	mailto:elly@cs.vu.nl																				
+music-ir (ircam)	list	http://listes.ircam.fr/wws/subscribe/music-ir	music-ir@listes.ircam.fr	music-ir@listes.ircam.fr,	mailto:music-ir@listes.ircam.fr																				
+alife	list	http://lists.idyll.org/listinfo/alife-announce	 titus@idyll.org	 titus@idyll.org,																					
+acma (australasian computer music association)	list	http://list.waikato.ac.nz/mailman/listinfo/acma-l	acma-l@list.waikato.ac.nz	acma-l@list.waikato.ac.nz,	mailto:acma-l@list.waikato.ac.nz	Moderator	12/6/2018																		
+Computational Creativity Forum 	list	https://groups.google.com/forum/#!forum/computational-creativity-forum	computational-creativity-forum@googlegroups.com	computational-creativity-forum@googlegroups.com,	mailto:computational-creativity-forum@googlegroups.com	Reject	12/6/2018																		
+cas (computer arts society), uk	list	https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=CAS	cas@jiscmail.ac.uk	cas@jiscmail.ac.uk,	mailto:cas@jiscmail.ac.uk																				
+CEC	list	https://groups.google.com/forum/#!forum/cec-conference	cec-conference@googlegroups.com	cec-conference@googlegroups.com,	mailto:cec-conference@googlegroups.com	Reject	12/6/2018																		
+DMRN	list	https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=DMRN-LIST	DMRN-LIST@JISCMAIL.AC.UK	DMRN-LIST@JISCMAIL.AC.UK,	mailto:DMRN-LIST@JISCMAIL.AC.UK	Reject	12/6/2018																		
+MIAM	list	http://www.miam.itu.edu.tr/	miam@yahoogroups.com	miam@yahoogroups.com,																					
+digital music research network (dmrn) list, uk	list		dmrn-list@jiscmail.ac.uk	dmrn-list@jiscmail.ac.uk,	mailto:dmrn-list@jiscmail.ac.uk																				
+ifip/icec	list	http://listserver.tue.nl/mailman/listinfo/icec	icec@listserver.tue.nl	icec@listserver.tue.nl,	mailto:icec@listserver.tue.nl																				
+AFIM	list	Ircam mailing lists	afim.info@afim-asso.org	afim.info@afim-asso.org,	mailto:afim.info@afim-asso.org																				
+icma memberslist	list	http://www.computermusic.org/login/required		,																					
+
+interactive systems and instrument design in music	list	https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ISIDM	ISIDM@JISCMAIL.AC.UK	ISIDM@JISCMAIL.AC.UK,	mailto:ISIDM@JISCMAIL.AC.UK																				
+music-and-science	list		music-and-science@jiscmail.ac.uk	music-and-science@jiscmail.ac.uk,	mailto:music-and-science@jiscmail.ac.uk	Reject	12/6/2018																		
+gamesnetwork list (related to DiGRA)	list		gamesnetwork-request@listserv.uta.fi	gamesnetwork-request@listserv.uta.fi,	mailto:gamesnetwork@listserv.uta.fi																				
+comp.ai google group	group	https://groups.google.com/forum/?fromgroups#!forum/comp.ai	comp.ai@googlegroups.com	comp.ai@googlegroups.com,	mailto:comp.ai@googlegroups.com	Reject	12/6/2018																		
+ML-news google groups	group	https://groups.google.com/forum?hl=en&fromgroups#!forum/ml-news	ml-news@googlegroups.com	ml-news@googlegroups.com,		Reject	12/6/2018																		
+comp.multimedia	group	https://groups.google.com/forum/?fromgroups#!forum/comp.multimedia		,																					
+Research - Musicology	list	https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=MUSICOLOGY-ALL	MUSICOLOGY-ALL@jiscmail.ac.uk	MUSICOLOGY-ALL@jiscmail.ac.uk,	mailto:MUSICOLOGY-ALL@jiscmail.ac.uk																				
+The ISMIR Community mailing list 	list	http://www.ismir.net/	community@ismir.net	community@ismir.net,	mailto:community@ismir.net																				
+The NIME Community mailing list	list	http://www.nime.org/	community@nime.org	community@nime.org,	mailto:community@nime.org																				
+AIMI list 	list	http://www.aimi-musica.org/	aimi@lists.aimi-musica.org	aimi@lists.aimi-musica.org,	mailto:aimi@lists.aimi-musica.org																				
+Mamas Lab 	Lab	www.metacreation.net	mamas-lab@sfu.ca	mamas-lab@sfu.ca,	mailto:mamas-lab@sfu.ca																				
+Australian Network for Art and Technology	list	http://www.anat.org.au/	anat@anat.org.au	anat@anat.org.au,																					
+AI Matters: A Newsletter of ACM SIGAI	list	http://sigai.acm.org/aimatters/	SIGAI-ANNOUNCE@LISTSERV.ACM.ORG	SIGAI-ANNOUNCE@LISTSERV.ACM.ORG,																					
+Supercollider Users	list		sc-users@lists.bham.ac.uk	sc-users@lists.bham.ac.uk,																					
+MusicDSP 	list		music-dsp@music.columbia.edu	music-dsp@music.columbia.edu,																					
+The International Computer Music Association (ICMA)	list		icma@umich.edu	icma@umich.edu,																					
+SMC Network 	list		smcnetwork@llista.upf.edu	smcnetwork@llista.upf.edu,																					
+Computer Music Mailing List in Brazil 	list		compmus-l@sbc.org.br	compmus-l@sbc.org.br,																					
+McGill Auditory mailing list 	list		AUDITORY-request@lists.mcgill.ca	AUDITORY-request@lists.mcgill.ca,																					
+ACM SIGMM - the Special Interest Group on Multimedia (linked to CBMI, etc.) 	list		sigmm@pi4.informatik.uni-mannheim.de	sigmm@pi4.informatik.uni-mannheim.de,		Reject	12/6/2018																		
+The International Conference on Auditory Display - ICAD 	list		icad@santafe.edu	icad@santafe.edu,																					
+Association for Uncertainty in AI - UAI list 	list		uai@eecs.oregonstate.edu	uai@eecs.oregonstate.edu,																					
+CHI-ANNOUNCEMENTS 	list		CHI-ANNOUNCEMENTS@listserv.acm.org	CHI-ANNOUNCEMENTS@listserv.acm.org,																					
+DBWorld	list		Dbworld@cs.wisc.edu	Dbworld@cs.wisc.edu,																					
+the Special Interest Group on Information Retrieval - ACM SIGIR 	list		IRList@lists.shef.ac.uk	IRList@lists.shef.ac.uk,		Reject	12/6/2018																		
+User modeling 	list	http://www.um.org/get-involved	um@di.unito.it	um@di.unito.it,																					
+ChucK forum	list		chuck@lists.cs.princeton.edu	chuck@lists.cs.princeton.edu,																					
+ChucK forum	list		chuck-users@lists.cs.princeton.edu	chuck-users@lists.cs.princeton.edu,																					
+ChucK forum	list		chuck-dev@lists.cs.princeton.edu	chuck-dev@lists.cs.princeton.edu,																					
+siat faculty	list		faculty-siat@sfu.ca	faculty-siat@sfu.ca,	mailto:faculty-siat@sfu.ca																				
+siat grads	list		siatgrad-students@sfu.ca	siatgrad-students@sfu.ca,																					
+Web audio community	list		public-audio-dev@w3.org	public-audio-dev@w3.org,		Verify	12/6/2018																		
+Live Algorithms mailing list 			LAM@JISCMAIL.AC.UK	LAM@JISCMAIL.AC.UK,		Reject	12/6/2018																		
+Digicult			info@digicult.it	info@digicult.it,																					
+																									
+"Dancecult: Journal of Electronic Dance Music Culture
+"	list	https://dj.dancecult.net/index.php/dancecult	dancecult-l@listcultures.org	dancecult-l@listcultures.org,																					
+Magenta	list		magenta-discuss@tensorflow.org	magenta-discuss@tensorflow.org,		Reject	12/6/2018																		
+Vancouver New Music	list		vcmm@spatula.ca	vcmm@spatula.ca,																					
+Vancouver New Music	list		v-cmm@sfu.ca	v-cmm@sfu.ca,																					
+Musical Metacreation 	list		musicalmetacreation@googlegroups.com	musicalmetacreation@googlegroups.com,		Reject	12/6/2018																		
+
+*** TODO [#B] Good to have Lists
+
+*** TODO [#C] Other lists
