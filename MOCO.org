@@ -34,8 +34,8 @@ NB There will be no deadline extensions
 
 **** ABOUT
 
-https://moco19.movementcomputing.org
-https://www.movementcomputing.org/past-conferences/
+- https://moco19.movementcomputing.org
+- https://www.movementcomputing.org/past-conferences/
 
 
 *** Submission
@@ -166,43 +166,41 @@ http://movementcomputing.org/
 
 #+BEGIN_SRC elisp :var _alist=_alist[2:-1,2]
 (compose-mail (string-join _alist ", ") "CfP" nil nil)
-;; (org-map-entries (insert) "CfP")
-(insert "THE BODY OF CFP")
+(insert "Apologies for cross-posting. Please distribute to your networks.\n\n")
+(insert "----------------------------------------------------------------\n\n")
+(insert-buffer-substring "MOCO.org" 306 11744)
 (message-send-and-exit))
 #+END_SRC
 
 **** _alist
 #+name: _alist
-| NAME         | URL                                                       |                                    | APPRVL | CfP1: Date       | CfP2: Date | Notes          |
+| NAME         | URL                                                       | mailto                             | APPRVL | CfP1: Date       | CfP2: Date | Notes          |
 |--------------+-----------------------------------------------------------+------------------------------------+--------+------------------+------------+----------------|
 | MOCO         | https://groups.google.com/forum/#!forum/movementcomputing | movementcomputing@googlegroups.com | cerkut | <2018-11-27 Tue> |            |                |
 | chi-announce | ?                                                         | CHI-ANNOUNCEMENTS@listserv.acm.org | cerkut | <2018-11-27 Tue> |            | 1362 recipents |
 | NIME         | https://groups.google.com/forum/#!forum/nime-community    | nime-community@googlegroups.com    | cerkut | <2018-11-27 Tue> |            |                |
 
+(org-element-parse-buffer 'headline)
 
 
 **** _cfpServices AND OTHER LISTS
+#+name: _blist
 
-| 
+| NAME        | URL                                                                    | mailto                                          | APPRVL    | CfP1: Date       | Notes                                     |
+|-------------+------------------------------------------------------------------------+-------------------------------------------------+-----------+------------------+-------------------------------------------|
+| eu-gene     | http://generative.net/pipermail/eu-gene/                               | eu-gene@generative.net                          | Reject    | <2018-12-06 Thu> |                                           |
+| pd-announce | http://lists.puredata.info/subscribe/pd-announce                       | pd-announce@iem.at                              | Moderator |                  |                                           |
+| LURK        | https://we.lurk.org  (update rest)                                     | announce@group.lurk.org                         | Reject    |                  | List of lists                             |
+| EACE        | http://ii.tudelft.nl/~tjerk/EACE_website/contact.html                  | elly@cs.vu.nl                                   |           |                  |                                           |
+| music-ir    | http://listes.ircam.fr/wws/subscribe/music-ir                          | music-ir@listes.ircam.fr                        |           |                  |                                           |
+| alife       | http://lists.idyll.org/listinfo/alife-announce                         | titus@idyll.org                                 |           |                  |                                           |
+| acma        | http://list.waikato.ac.nz/mailman/listinfo/acma-l                      | acma-l@list.waikato.ac.nz                       | Moderator | <2018-12-06 Thu> | (australasian computer music association) |
+| Comp. Crea  | https://groups.google.com/forum/#!forum/computational-creativity-forum | computational-creativity-forum@googlegroups.com | Reject    | <2018-12-06 Thu> |                                           |
+| cas         | https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=CAS                     | cas@jiscmail.ac.uk                              |           |                  |                                           |
+| CEC         | https://groups.google.com/forum/#!forum/cec-conference                 | cec-conference@googlegroups.com                 |           |                  |                                           |
+| DMRN        | https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=DMRN-LIST               | DMRN-LIST@JISCMAIL.AC.UK                        | Reject    | <2018-12-06 Thu> |                                           |
+| MIAM        | http://www.miam.itu.edu.tr/                                            | miam@yahoogroups.com                            |           |                  |                                           |
 
-| eu-gene      | http://generative.net/pipermail/eu-gene/         | eu-gene@generative.net             | Reject    | <2018-12-06 Thu> |            |       |
-| pd-announce  | http://lists.puredata.info/subscribe/pd-announce | pd-announce@iem.at                 | Moderator |                  |            |       |
-                                               | 		chi-Announcements@acm.org |                        |                               |           |                  |            |       |   |
-
-
-| LURK         | list of lists | https://we.lurk.org  (update rest)                                 | announce@group.lurk.org | announce@group.lurk.org, | mailto:announce@group.lurk.org | Reject    |                  |            |       |
-
-
-EACE	list	http://ii.tudelft.nl/~tjerk/EACE_website/contact.html	elly@cs.vu.nl	elly@cs.vu.nl,	mailto:elly@cs.vu.nl																				
-music-ir (ircam)	list	http://listes.ircam.fr/wws/subscribe/music-ir	music-ir@listes.ircam.fr	music-ir@listes.ircam.fr,	mailto:music-ir@listes.ircam.fr																				
-alife	list	http://lists.idyll.org/listinfo/alife-announce	 titus@idyll.org	 titus@idyll.org,																					
-acma (australasian computer music association)	list	http://list.waikato.ac.nz/mailman/listinfo/acma-l	acma-l@list.waikato.ac.nz	acma-l@list.waikato.ac.nz,	mailto:acma-l@list.waikato.ac.nz	Moderator	12/6/2018																		
-Computational Creativity Forum 	list	https://groups.google.com/forum/#!forum/computational-creativity-forum	computational-creativity-forum@googlegroups.com	computational-creativity-forum@googlegroups.com,	mailto:computational-creativity-forum@googlegroups.com	Reject	12/6/2018																		
-cas (computer arts society), uk	list	https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=CAS	cas@jiscmail.ac.uk	cas@jiscmail.ac.uk,	mailto:cas@jiscmail.ac.uk																				
-CEC	list	https://groups.google.com/forum/#!forum/cec-conference	cec-conference@googlegroups.com	cec-conference@googlegroups.com,	mailto:cec-conference@googlegroups.com	Reject	12/6/2018																		
-DMRN	list	https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=DMRN-LIST	DMRN-LIST@JISCMAIL.AC.UK	DMRN-LIST@JISCMAIL.AC.UK,	mailto:DMRN-LIST@JISCMAIL.AC.UK	Reject	12/6/2018																		
-MIAM	list	http://www.miam.itu.edu.tr/	miam@yahoogroups.com	miam@yahoogroups.com,																					
-digital music research network (dmrn) list, uk	list		dmrn-list@jiscmail.ac.uk	dmrn-list@jiscmail.ac.uk,	mailto:dmrn-list@jiscmail.ac.uk																				
 ifip/icec	list	http://listserver.tue.nl/mailman/listinfo/icec	icec@listserver.tue.nl	icec@listserver.tue.nl,	mailto:icec@listserver.tue.nl																				
 AFIM	list	Ircam mailing lists	afim.info@afim-asso.org	afim.info@afim-asso.org,	mailto:afim.info@afim-asso.org																				
 icma memberslist	list	http://www.computermusic.org/login/required		,																					
