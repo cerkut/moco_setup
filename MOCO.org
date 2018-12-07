@@ -73,7 +73,7 @@ This requires a wide range of computational tasks including modeling, representa
 - Biosensing, biocontrol and movement
 - Movement expression in avatar, artificial agents, virtual humans or robots
 - Music and movement
-- "Philosophical perspectives and reflection on movement and computing
+- Philosophical perspectives and reflection on movement and computing
 
 The conference is an opportunity to present a research or study or details of collaborative work. Participants will have the opportunity to offer a presentation of the results of their research on one of the themes of the symposium and to interact with their scientific/ artistic peers, in a friendly and constructive environment. We encourage submission of a wide range of formats, the submission categories are:
 
