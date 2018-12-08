@@ -169,7 +169,7 @@ http://movementcomputing.org/
 (insert "Apologies for cross-posting. Please distribute to your networks.\n\n")
 (insert "----------------------------------------------------------------\n\n")
 (insert-buffer-substring "MOCO.org" 306 11744)
-(message-send-and-exit))
+(message-send-and-exit)
 #+END_SRC
 
 **** _alist
@@ -179,8 +179,13 @@ http://movementcomputing.org/
 | MOCO         | https://groups.google.com/forum/#!forum/movementcomputing | movementcomputing@googlegroups.com | cerkut | <2018-11-27 Tue> |            |                |
 | chi-announce | ?                                                         | CHI-ANNOUNCEMENTS@listserv.acm.org | cerkut | <2018-11-27 Tue> |            | 1362 recipents |
 | NIME         | https://groups.google.com/forum/#!forum/nime-community    | nime-community@googlegroups.com    | cerkut | <2018-11-27 Tue> |            |                |
+| ISMIR        | http://www.ismir.net/                                     | community@ismir.net                | cerkut | <2018-12-06 Thu> | .          |                |
+| SMC          | http://www.smcnetwork.org/                                | smcnetwork@llista.upf.edu          | .      | <2018-12-15 Sat> |            |                |
 
-(org-element-parse-buffer 'headline)
+
+
+SMC Network 	list		smcnetwork@llista.upf.edu,																					
+# (org-element-parse-buffer 'headline)
 
 
 **** _cfpServices AND OTHER LISTS
@@ -200,9 +205,9 @@ http://movementcomputing.org/
 | CEC         | https://groups.google.com/forum/#!forum/cec-conference                 | cec-conference@googlegroups.com                 |           |                  |                                           |
 | DMRN        | https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=DMRN-LIST               | DMRN-LIST@JISCMAIL.AC.UK                        | Reject    | <2018-12-06 Thu> |                                           |
 | MIAM        | http://www.miam.itu.edu.tr/                                            | miam@yahoogroups.com                            |           |                  |                                           |
-
-ifip/icec	list	http://listserver.tue.nl/mailman/listinfo/icec	icec@listserver.tue.nl	icec@listserver.tue.nl,	mailto:icec@listserver.tue.nl																				
-AFIM	list	Ircam mailing lists	afim.info@afim-asso.org	afim.info@afim-asso.org,	mailto:afim.info@afim-asso.org																				
+| ifip/icec   | http://listserver.tue.nl/mailman/listinfo/icec                         | icec@listserver.tue.nl                          |           |                  |                                           |
+| AFIM        | ?                                                                      | afim.info@afim-asso.org                         | .         | .                | IRCAM List                                |
+| ICMA        |                                                                        |                                                 |           |                  |                                           |
 icma memberslist	list	http://www.computermusic.org/login/required		,																					
 
 interactive systems and instrument design in music	list	https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ISIDM	ISIDM@JISCMAIL.AC.UK	ISIDM@JISCMAIL.AC.UK,	mailto:ISIDM@JISCMAIL.AC.UK																				
@@ -212,8 +217,8 @@ comp.ai google group	group	https://groups.google.com/forum/?fromgroups#!forum/co
 ML-news google groups	group	https://groups.google.com/forum?hl=en&fromgroups#!forum/ml-news	ml-news@googlegroups.com	ml-news@googlegroups.com,		Reject	12/6/2018																		
 comp.multimedia	group	https://groups.google.com/forum/?fromgroups#!forum/comp.multimedia		,																					
 Research - Musicology	list	https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=MUSICOLOGY-ALL	MUSICOLOGY-ALL@jiscmail.ac.uk	MUSICOLOGY-ALL@jiscmail.ac.uk,	mailto:MUSICOLOGY-ALL@jiscmail.ac.uk																				
-The ISMIR Community mailing list 	list	http://www.ismir.net/	community@ismir.net	community@ismir.net,	mailto:community@ismir.net																				
-The NIME Community mailing list	list	http://www.nime.org/	community@nime.org	community@nime.org,	mailto:community@nime.org																				
+
+
 AIMI list 	list	http://www.aimi-musica.org/	aimi@lists.aimi-musica.org	aimi@lists.aimi-musica.org,	mailto:aimi@lists.aimi-musica.org																				
 Mamas Lab 	Lab	www.metacreation.net	mamas-lab@sfu.ca	mamas-lab@sfu.ca,	mailto:mamas-lab@sfu.ca																				
 Australian Network for Art and Technology	list	http://www.anat.org.au/	anat@anat.org.au	anat@anat.org.au,																					
@@ -221,7 +226,7 @@ AI Matters: A Newsletter of ACM SIGAI	list	http://sigai.acm.org/aimatters/	SIGAI
 Supercollider Users	list		sc-users@lists.bham.ac.uk	sc-users@lists.bham.ac.uk,																					
 MusicDSP 	list		music-dsp@music.columbia.edu	music-dsp@music.columbia.edu,																					
 The International Computer Music Association (ICMA)	list		icma@umich.edu	icma@umich.edu,																					
-SMC Network 	list		smcnetwork@llista.upf.edu	smcnetwork@llista.upf.edu,																					
+
 Computer Music Mailing List in Brazil 	list		compmus-l@sbc.org.br	compmus-l@sbc.org.br,																					
 McGill Auditory mailing list 	list		AUDITORY-request@lists.mcgill.ca	AUDITORY-request@lists.mcgill.ca,																					
 ACM SIGMM - the Special Interest Group on Multimedia (linked to CBMI, etc.) 	list		sigmm@pi4.informatik.uni-mannheim.de	sigmm@pi4.informatik.uni-mannheim.de,		Reject	12/6/2018																		
