@@ -261,7 +261,7 @@ Musical Metacreation 	list		musicalmetacreation@googlegroups.com	musicalmetacrea
 *** TODO [#C] Other lists
 
 
-** DONE Aplly ACM for Sponsorhip 
+** DONE Apply ACM for Sponsorship 
 
 
 ** DONE Inititiate the Conference Management System (CMS)
@@ -291,7 +291,8 @@ then just call with the paper number
 #+CALL: EasyDiff(2)
 
 We can then open the file, try =find-file-noselect= for not focusing
-(find-file "/Users/cerkut/OneDrAAU/Conferences/2019/2.diff")
+
+: (find-file "/Users/cerkut/OneDrAAU/Conferences/2019/2.diff")
 
 #+name: _moco19Revisions
 | diff | Senior PC wanted | Authors did | Other issues |
