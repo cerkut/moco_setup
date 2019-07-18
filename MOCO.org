@@ -9,7 +9,8 @@
 Make and distribute CfP for conferences.
 #+end_quote
 
-** CfP :CfP:
+** DONE CfP :CfP:
+CLOSED: [2019-02-27 Wed 05:53]
 
 6th International Conference on Movement and Computing (MOCO19)
 https://moco19.movementcomputing.org/
@@ -158,7 +159,12 @@ If you have any questions please contact: mailto:moco2019@easychair.org or [[mai
 http://movementcomputing.org/
 
 
-** TODO Practice Work
+** DONE Practice Work
+CLOSED: [2019-02-27 Wed 05:53]
+
+** Extension
+
+
 
 ** Distribution
 
