@@ -1,9 +1,11 @@
+#+TITLE: MOCO BOOTSTRAP
 * MOCO SETUP
 :properties:
 :header-args: :cache yes :comments org :padline yes :results silent
 :header-args:sh: :noweb tangle :shebang "#!/bin/sh" :tangle moco.command
 :end:
-#+startup: showall nohideblocks hidestars indent
+#+startup: showall nohideblocks indent
+#+TODO: TODO WAITING IN-PROGRESS | DONE DEFERRED CANCELED 
 
 #+begin_quote
 Make and distribute CfP for conferences.
@@ -159,12 +161,13 @@ If you have any questions please contact: mailto:moco2019@easychair.org or [[mai
 http://movementcomputing.org/
 
 
+
+
 ** DONE Practice Work
 CLOSED: [2019-02-27 Wed 05:53]
 
-** Extension
 
-
+** TODO Create an account and post to social media  MOCO20xx@gmail.com
 
 ** Distribution
 
@@ -178,7 +181,8 @@ CLOSED: [2019-02-27 Wed 05:53]
 (message-send-and-exit)
 #+END_SRC
 
-**** _alist
+**** DONE [#A] _alist
+CLOSED: [2019-07-18 Thu 11:02]
 #+name: _alist
 | NAME         | URL                                                       | mailto                             | APPRVL | CfP1: Date       | CfP2: Date | Notes          |
 |--------------+-----------------------------------------------------------+------------------------------------+--------+------------------+------------+----------------|
@@ -189,35 +193,29 @@ CLOSED: [2019-02-27 Wed 05:53]
 | SMC          | http://www.smcnetwork.org/                                | smcnetwork@llista.upf.edu          | .      | <2018-12-15 Sat> |            |                |
 
 
-
-SMC Network 	list		smcnetwork@llista.upf.edu,																					
-# (org-element-parse-buffer 'headline)
-
-
-**** _cfpServices AND OTHER LISTS
+**** TODO [#B] _cfpServices AND OTHER LISTS
 #+name: _blist
 
-| NAME        | URL                                                                    | mailto                                          | APPRVL    | CfP1: Date       | Notes                                     |
-|-------------+------------------------------------------------------------------------+-------------------------------------------------+-----------+------------------+-------------------------------------------|
-| eu-gene     | http://generative.net/pipermail/eu-gene/                               | eu-gene@generative.net                          | Reject    | <2018-12-06 Thu> |                                           |
-| pd-announce | http://lists.puredata.info/subscribe/pd-announce                       | pd-announce@iem.at                              | Moderator |                  |                                           |
-| LURK        | https://we.lurk.org  (update rest)                                     | announce@group.lurk.org                         | Reject    |                  | List of lists                             |
-| EACE        | http://ii.tudelft.nl/~tjerk/EACE_website/contact.html                  | elly@cs.vu.nl                                   |           |                  |                                           |
-| music-ir    | http://listes.ircam.fr/wws/subscribe/music-ir                          | music-ir@listes.ircam.fr                        |           |                  |                                           |
-| alife       | http://lists.idyll.org/listinfo/alife-announce                         | titus@idyll.org                                 |           |                  |                                           |
-| acma        | http://list.waikato.ac.nz/mailman/listinfo/acma-l                      | acma-l@list.waikato.ac.nz                       | Moderator | <2018-12-06 Thu> | (australasian computer music association) |
-| Comp. Crea  | https://groups.google.com/forum/#!forum/computational-creativity-forum | computational-creativity-forum@googlegroups.com | Reject    | <2018-12-06 Thu> |                                           |
-| cas         | https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=CAS                     | cas@jiscmail.ac.uk                              |           |                  |                                           |
-| CEC         | https://groups.google.com/forum/#!forum/cec-conference                 | cec-conference@googlegroups.com                 |           |                  |                                           |
-| DMRN        | https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=DMRN-LIST               | DMRN-LIST@JISCMAIL.AC.UK                        | Reject    | <2018-12-06 Thu> |                                           |
-| MIAM        | http://www.miam.itu.edu.tr/                                            | miam@yahoogroups.com                            |           |                  |                                           |
-| ifip/icec   | http://listserver.tue.nl/mailman/listinfo/icec                         | icec@listserver.tue.nl                          |           |                  |                                           |
-| AFIM        | ?                                                                      | afim.info@afim-asso.org                         | .         | .                | IRCAM List                                |
-| ICMA        |                                                                        |                                                 |           |                  |                                           |
-icma memberslist	list	http://www.computermusic.org/login/required		,																					
+| NAME        | URL                                                                    | mailto                                          | APPRVL    | CfP1: Date       | Notes                                              |
+|-------------+------------------------------------------------------------------------+-------------------------------------------------+-----------+------------------+----------------------------------------------------|
+| eu-gene     | http://generative.net/pipermail/eu-gene/                               | eu-gene@generative.net                          | Reject    | <2018-12-06 Thu> |                                                    |
+| pd-announce | http://lists.puredata.info/subscribe/pd-announce                       | pd-announce@iem.at                              | Moderator |                  |                                                    |
+| LURK        | https://we.lurk.org  (update rest)                                     | announce@group.lurk.org                         | Reject    |                  | List of lists                                      |
+| EACE        | http://ii.tudelft.nl/~tjerk/EACE_website/contact.html                  | elly@cs.vu.nl                                   |           |                  |                                                    |
+| music-ir    | http://listes.ircam.fr/wws/subscribe/music-ir                          | music-ir@listes.ircam.fr                        |           |                  |                                                    |
+| alife       | http://lists.idyll.org/listinfo/alife-announce                         | titus@idyll.org                                 |           |                  |                                                    |
+| acma        | http://list.waikato.ac.nz/mailman/listinfo/acma-l                      | acma-l@list.waikato.ac.nz                       | Moderator | <2018-12-06 Thu> | (australasian computer music association)          |
+| Comp. Crea  | https://groups.google.com/forum/#!forum/computational-creativity-forum | computational-creativity-forum@googlegroups.com | Reject    | <2018-12-06 Thu> |                                                    |
+| cas         | https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=CAS                     | cas@jiscmail.ac.uk                              |           |                  |                                                    |
+| CEC         | https://groups.google.com/forum/#!forum/cec-conference                 | cec-conference@googlegroups.com                 |           |                  |                                                    |
+| DMRN        | https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=DMRN-LIST               | DMRN-LIST@JISCMAIL.AC.UK                        | Reject    | <2018-12-06 Thu> |                                                    |
+| MIAM        | http://www.miam.itu.edu.tr/                                            | miam@yahoogroups.com                            |           |                  |                                                    |
+| ifip/icec   | http://listserver.tue.nl/mailman/listinfo/icec                         | icec@listserver.tue.nl                          |           |                  |                                                    |
+| AFIM        | ?                                                                      | afim.info@afim-asso.org                         | .         | .                | IRCAM List                                         |
+| ICMA        | http://www.computermusic.org/login/required                            |                                                 | ?         |                  | icma memberslist                                   |
+| ISID        |                                                                        | ISIDM@JISCMAIL.AC.UK                            | ?         |                  | interactive systems and instrument design in music |
+| MusScience  |                                                                        | music-and-science@jiscmail.ac.uk                | Reject    | <2018-12-06 Thu> | 
 
-interactive systems and instrument design in music	list	https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ISIDM	ISIDM@JISCMAIL.AC.UK	ISIDM@JISCMAIL.AC.UK,	mailto:ISIDM@JISCMAIL.AC.UK																				
-music-and-science	list		music-and-science@jiscmail.ac.uk	music-and-science@jiscmail.ac.uk,	mailto:music-and-science@jiscmail.ac.uk	Reject	12/6/2018																		
 gamesnetwork list (related to DiGRA)	list		gamesnetwork-request@listserv.uta.fi	gamesnetwork-request@listserv.uta.fi,	mailto:gamesnetwork@listserv.uta.fi																				
 comp.ai google group	group	https://groups.google.com/forum/?fromgroups#!forum/comp.ai	comp.ai@googlegroups.com	comp.ai@googlegroups.com,	mailto:comp.ai@googlegroups.com	Reject	12/6/2018																		
 ML-news google groups	group	https://groups.google.com/forum?hl=en&fromgroups#!forum/ml-news	ml-news@googlegroups.com	ml-news@googlegroups.com,		Reject	12/6/2018																		
@@ -261,3 +259,49 @@ Musical Metacreation 	list		musicalmetacreation@googlegroups.com	musicalmetacrea
 *** TODO [#B] Good to have Lists
 
 *** TODO [#C] Other lists
+
+
+** DONE Aplly ACM for Sponsorhip 
+
+
+** DONE Inititiate the Conference Management System (CMS)
+CLOSED: [2019-07-18 Thu 11:07]
+
+*** EasyChair
+Add XML / CSV creation procedure, See also other githubs:
+- https://github.com/nblomqvist/easy2acl :: Convert data from EasyChair for use with aclpub
+- https://github.com/gmyoungblood/IAAI-EasyChair-CSV-Paper-Score-Processor :: Script for processing an EasyChair CSV bundle to tally and average a set of custom scores. Used specifically for the Innovative Applications of Artificial Intelligence (IAAI) Conference.
+
+**** DONE Check of final papers
+CLOSED: [2019-07-18 Thu 13:28]
+    
+Script to check the revisions. Currently we assume that initial and revised pdfs to be present in the =ROOT= folder. It may work with Precision Conference as well.
+
+#+NAME: EasyDiff
+#+begin_src shell :var pID=13
+# ADJUST ROOT
+cd '/Users/cerkut/OneDrAAU/Conferences/2019'
+pdftotext MOCO19-Easychair/MOCO2019_paper_$pID.pdf MOCO19-Easychair/MOCO2019_paper_$pID.txt
+pdftotext MOCO19-Revised/MOCO2019_paper_$pID.pdf MOCO19-Revised/MOCO2019_paper_$pID.txt
+diff -w MOCO19-Easychair/MOCO2019_paper_$pID.txt MOCO19-Revised/MOCO2019_paper_$pID.txt > $pID.diff
+rm MOCO19-Easychair/MOCO2019_paper_$pID.txt MOCO19-Revised/MOCO2019_paper_$pID.txt 
+#+end_src
+
+then just call with the paper number
+#+CALL: EasyDiff(2)
+
+We can then open the file, try =find-file-noselect= for not focusing
+(find-file "/Users/cerkut/OneDrAAU/Conferences/2019/2.diff")
+
+#+name: _moco19Revisions
+| diff | Senior PC wanted | Authors did | Other issues |
+|------+------------------+-------------+--------------|
+|  .13 | 1. This          | 1. Check    | Enlist       |
+|      | 2. That          |             |              |
+|      | 3. n'That        |             |              |
+|------+------------------+-------------+--------------|
+|      |                  |             |              |
+
+
+*** Prescision Conference
+

@@ -3,6 +3,7 @@ The code works currently on Emacs [[https://orgmode.org/][org-mode]].
 
 * TODO Link the shared folder.
 
+
 * TODO Document trello.
 
 
