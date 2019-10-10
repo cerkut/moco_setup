@@ -11,6 +11,11 @@
 Make and distribute CfP for conferences.
 #+end_quote
 
+** TODO Create an account and post to social media  MOCO20xx@gmail.com
+
+** WAITING Apply ACM for Sponsorship 
+
+
 ** DONE CfP :CfP:
 CLOSED: [2019-02-27 Wed 05:53]
 
@@ -166,9 +171,6 @@ http://movementcomputing.org/
 ** DONE Practice Work
 CLOSED: [2019-02-27 Wed 05:53]
 
-
-** TODO Create an account and post to social media  MOCO20xx@gmail.com
-
 ** Distribution
 
 *** [#A] Must have Lists 
@@ -259,9 +261,6 @@ Musical Metacreation 	list		musicalmetacreation@googlegroups.com	musicalmetacrea
 *** TODO [#B] Good to have Lists
 
 *** TODO [#C] Other lists
-
-
-** DONE Apply ACM for Sponsorship 
 
 
 ** DONE Inititiate the Conference Management System (CMS)
