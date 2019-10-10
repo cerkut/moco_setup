@@ -13,8 +13,10 @@ Make and distribute CfP for conferences.
 
 ** TODO Create an account and post to social media  MOCO20xx@gmail.com
 
-** WAITING Apply ACM for Sponsorship 
+*** TODO Subscribe to the [[Distribution]] Lists with the new email (CODE?)
 
+** WAITING Apply ACM for Sponsorship 
+This will also impact the [[nb:moco_setup::README.org::c22377][Conference Management System (CMS)]]
 
 ** DONE CfP :CfP:
 CLOSED: [2019-02-27 Wed 05:53]
@@ -303,5 +305,5 @@ We can then open the file, try =find-file-noselect= for not focusing
 |      |                  |             |              |
 
 
-*** Prescision Conference
+*** Precision Conference
 
