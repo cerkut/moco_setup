@@ -20,7 +20,27 @@ Make and distribute CfP for conferences.
 ** WAITING Apply ACM for Sponsorship 
 This will also impact the [[nb:moco_setup::README.org::c22377][Conference Management System (CMS)]]
 
-You will need the [[Webpage]] and the [[CfP]].
+You will need the [[,/README,org/Webpage]], the [[CfP]], and later for the preamble of the
+
+COST https://www.acm.org/publications/icps-series
+Instructions: https://www.acm.org/publications/icps-instructions 
+
+The ACM costs: Base rate for volumes with up to 30 papers: US $750
+               Base rate plus $20 for each paper above 30
+
+DOI registration fee: US $1 per article published
+
+
+*** Preamble
+
+This volume presents the proceedings of the 6th International Conference oCOST https://www.acm.org/publications/icps-series
+Instructions: https://www.acm.org/publications/icps-instructions 
+n Movement and Computing (MOCO'19). MOCO is nowadays the main interdisciplinary conference exploring how computer science and technology can support a deeper understanding of human movement practice for movement expression and communication. This is achieved by designing and developing new paradigms for interacting with computers through movement (e.g., movement interfaces), and by tackling computational challenges about the modeling, representation, segmentation, recognition, and generation of movement. The interdisciplinary nature of the targeted topics covers many research and application areas, including for example neuroscience, psychology, philosophy, embodied cognition, biomechanics, human-machine interaction, bodily experience, and the performing arts.
+
+*** Logo
+https://moco19.movementcomputing.org/images/Test-Image-p-500.png
+
+
 
 ** DONE CfP :CfP:
 CLOSED: [2019-02-27 Wed 05:53]
@@ -170,9 +190,6 @@ If you have any questions please contact: mailto:moco2019@easychair.org or [[mai
 - Steering Committee: Frédéric Bevilacqua (IRCAM), Sarah Fdili Alaoui (LRI-Université Paris-Sud 11), Jules Françoise (CNRS, Université Paris-Sud Université Paris-Saclay), Philippe Pasquier (Simon Fraser University), Thecla Schiphorst (Simon Fraser University)
 
 http://movementcomputing.org/
-
-
-
 
 ** DONE Practice Work
 CLOSED: [2019-02-27 Wed 05:53]
