@@ -15,8 +15,12 @@ Make and distribute CfP for conferences.
 
 *** TODO Subscribe to the [[Distribution]] Lists with the new email (CODE?)
 
+*** TODO Webpage
+
 ** WAITING Apply ACM for Sponsorship 
 This will also impact the [[nb:moco_setup::README.org::c22377][Conference Management System (CMS)]]
+
+You will need the [[Webpage]] and the [[CfP]].
 
 ** DONE CfP :CfP:
 CLOSED: [2019-02-27 Wed 05:53]
@@ -265,8 +269,13 @@ Musical Metacreation 	list		musicalmetacreation@googlegroups.com	musicalmetacrea
 *** TODO [#C] Other lists
 
 
-** DONE Inititiate the Conference Management System (CMS)
+** DONE Initiate the Conference Management System (CMS)
 CLOSED: [2019-07-18 Thu 11:07]
+
+*** [#A] Recruit your reviewers / PC during the previous MOCO
+
+- [ ] Ask for 10 representative pubs, let CMS analyze them
+- [ ] Assign papers as they come!
 
 *** EasyChair
 Add XML / CSV creation procedure, See also other githubs:
