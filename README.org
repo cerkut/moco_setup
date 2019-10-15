@@ -13,7 +13,7 @@ Make and distribute CfP for conferences.
 
 ** TODO Create an account and post to social media  MOCO20xx@gmail.com
 
-*** TODO Subscribe to the [[Distribution]] Lists with the new email (CODE?)
+*** TODO Subscribe to the [[file:README.org::Distribution]] Lists with the new email (CODE?)
 
 *** TODO Webpage
 
@@ -22,13 +22,13 @@ This will also impact the [[nb:moco_setup::README.org::c22377][Conference Manage
 
 You will need the [[,/README,org/Webpage]], the [[CfP]], and later for the preamble of the
 
-COST https://www.acm.org/publications/icps-series
-Instructions: https://www.acm.org/publications/icps-instructions 
+- COST https://www.acm.org/publications/icps-series
+- Instructions: https://www.acm.org/publications/icps-instructions 
 
-The ACM costs: Base rate for volumes with up to 30 papers: US $750
-               Base rate plus $20 for each paper above 30
-
-DOI registration fee: US $1 per article published
+The ACM costs: 
+- Base rate for volumes with up to 30 papers: US $750
+- Base rate plus $20 for each paper above 30
+- DOI registration fee: US $1 per article published
 
 
 *** Preamble
@@ -45,10 +45,12 @@ https://moco19.movementcomputing.org/images/Test-Image-p-500.png
 ** DONE CfP :CfP:
 CLOSED: [2019-02-27 Wed 05:53]
 
+#+BEGIN_VERBATIM
 6th International Conference on Movement and Computing (MOCO19)
 https://moco19.movementcomputing.org/
 10-12th October,  Tempe, Arizona
 Arizona State University, USA
+#+END_VERBATIM
 
 Arizona State University [ASU] will host the 2019 the 6th International Conference on Movement and Computing [MOCO] which is to be held in Tempe, Arizona.
 
