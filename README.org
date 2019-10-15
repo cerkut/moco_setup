@@ -13,7 +13,9 @@ Make and distribute CfP for conferences.
 
 ** TODO Create an account and post to social media  MOCO20xx@gmail.com
 
-*** TODO Subscribe to the [[file:README.org::Distribution]] Lists with the new email (CODE?)
+*** TODO Subscribe to the Distribution Lists with the new email (CODE?)
+
+They are here [[#Distribution]]
 
 *** TODO Webpage
 
@@ -22,7 +24,7 @@ This will also impact the [[nb:moco_setup::README.org::c22377][Conference Manage
 
 You will need the [[,/README,org/Webpage]], the [[CfP]], and later for the preamble of the
 
-- COST https://www.acm.org/publications/icps-series
+- COST https://www.acm.org/publications/icps-seriesm,
 - Instructions: https://www.acm.org/publications/icps-instructions 
 
 The ACM costs: 
@@ -33,9 +35,7 @@ The ACM costs:
 
 *** Preamble
 
-This volume presents the proceedings of the 6th International Conference oCOST https://www.acm.org/publications/icps-series
-Instructions: https://www.acm.org/publications/icps-instructions 
-n Movement and Computing (MOCO'19). MOCO is nowadays the main interdisciplinary conference exploring how computer science and technology can support a deeper understanding of human movement practice for movement expression and communication. This is achieved by designing and developing new paradigms for interacting with computers through movement (e.g., movement interfaces), and by tackling computational challenges about the modeling, representation, segmentation, recognition, and generation of movement. The interdisciplinary nature of the targeted topics covers many research and application areas, including for example neuroscience, psychology, philosophy, embodied cognition, biomechanics, human-machine interaction, bodily experience, and the performing arts.
+This volume presents the proceedings of the 6th International Conference on Movement and Computing (MOCO'19). MOCO is nowadays the main interdisciplinary conference exploring how computer science and technology can support a deeper understanding of human movement practice for movement expression and communication. This is achieved by designing and developing new paradigms for interacting with computers through movement (e.g., movement interfaces), and by tackling computational challenges about the modeling, representation, segmentation, recognition, and generation of movement. The interdisciplinary nature of the targeted topics covers many research and application areas, including for example neuroscience, psychology, philosophy, embodied cognition, biomechanics, human-machine interaction, bodily experience, and the performing arts.
 
 *** Logo
 https://moco19.movementcomputing.org/images/Test-Image-p-500.png
@@ -45,12 +45,12 @@ https://moco19.movementcomputing.org/images/Test-Image-p-500.png
 ** DONE CfP :CfP:
 CLOSED: [2019-02-27 Wed 05:53]
 
-#+BEGIN_VERBATIM
+#+BEGIN_QUOTE
 6th International Conference on Movement and Computing (MOCO19)
 https://moco19.movementcomputing.org/
 10-12th October,  Tempe, Arizona
 Arizona State University, USA
-#+END_VERBATIM
+#+END_QUOTE
 
 Arizona State University [ASU] will host the 2019 the 6th International Conference on Movement and Computing [MOCO] which is to be held in Tempe, Arizona.
 
