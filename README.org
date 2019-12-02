@@ -8,7 +8,8 @@
 #+TODO: TODO WAITING IN-PROGRESS | DONE DEFERRED CANCELED 
 
 #+begin_quote
-Make and distribute CfP for conferences.
+Make and distribute CfP for conferences. See also
+- https://github.com/NIME-conference/cookbook
 #+end_quote
 
 ** TODO Create an account and post to social media  MOCO20xx@gmail.com
@@ -17,14 +18,18 @@ Make and distribute CfP for conferences.
 
 They are here [[#Distribution]]
 
-*** TODO Webpage
+
+*** DONE Webpage @ https://www.movementcomputing.org/moco20-call-for-papers
+CLOSED: [2019-12-02 Mon 07:59]
+
 
 ** WAITING Apply ACM for Sponsorship 
 This will also impact the [[nb:moco_setup::README.org::c22377][Conference Management System (CMS)]]
 
-You will need the [[,/README,org/Webpage]], the [[CfP]], and later for the preamble of the
+You will need the [[,/README,org/Webpage]], the [[CfP]], and later for the preamble of the proceedings.
+See 
 
-- COST https://www.acm.org/publications/icps-seriesm,
+- COST https://www.acm.org/publications/icps-series
 - Instructions: https://www.acm.org/publications/icps-instructions 
 
 The ACM costs: 
@@ -192,6 +197,7 @@ If you have any questions please contact: mailto:moco2019@easychair.org or [[mai
 - Steering Committee: Frédéric Bevilacqua (IRCAM), Sarah Fdili Alaoui (LRI-Université Paris-Sud 11), Jules Françoise (CNRS, Université Paris-Sud Université Paris-Saclay), Philippe Pasquier (Simon Fraser University), Thecla Schiphorst (Simon Fraser University)
 
 http://movementcomputing.org/
+
 
 ** DONE Practice Work
 CLOSED: [2019-02-27 Wed 05:53]
