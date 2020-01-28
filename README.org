@@ -23,7 +23,7 @@ They are here [[#Distribution]]
 CLOSED: [2019-12-02 Mon 07:59]
 
 
-** WAITING Apply ACM for Sponsorship 
+** WAITING Apply ACM for Sponsorship  
 This will also impact the [[nb:moco_setup::README.org::c22377][Conference Management System (CMS)]]
 
 You will need the [[,/README,org/Webpage]], the [[CfP]], and later for the preamble of the proceedings.
@@ -304,6 +304,7 @@ CLOSED: [2019-07-18 Thu 11:07]
 
 *** EasyChair
 Add XML / CSV creation procedure, See also other githubs:
+Even the ACM sponsorship won't help with metadata transfer, we have to find a way. 
 - https://github.com/nblomqvist/easy2acl :: Convert data from EasyChair for use with aclpub
 - https://github.com/gmyoungblood/IAAI-EasyChair-CSV-Paper-Score-Processor :: Script for processing an EasyChair CSV bundle to tally and average a set of custom scores. Used specifically for the Innovative Applications of Artificial Intelligence (IAAI) Conference.
 
