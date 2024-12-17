@@ -28,10 +28,13 @@ CLOSED: [2019-12-02 Mon 07:59]
 ** WAITING Apply ACM for Sponsorship  
 This will also impact the [[nb:moco_setup::README.org::c22377][Conference Management System (CMS)]]
 
-You will need the [[,/README,org/Webpage]], the [[CfP]], and later for the preamble of the proceedings.
+You will need the [[./README.org/Webpage]], the [[CfP]], and later for the preamble of the proceedings.
 See 
 
 - COST https://www.acm.org/publications/icps-series
+  Major Change in ICPS Publishing Model as of 2024: Please see further details here:
+  https://www.acm.org/publications/icps/organizer-guidance 
+
 - Instructions: https://www.acm.org/publications/icps-instructions 
 
 The ACM costs: 
@@ -250,6 +253,41 @@ CLOSED: [2019-07-18 Thu 11:02]
 | ICMA        | http://www.computermusic.org/login/required                            |                                                 | ?         |                  | icma memberslist                                   |
 | ISID        |                                                                        | ISIDM@JISCMAIL.AC.UK                            | ?         |                  | interactive systems and instrument design in music |
 | MusScience  |                                                                        | music-and-science@jiscmail.ac.uk                | Reject    | <2018-12-06 Thu> | 
+
+AI-created B-LIST 
+
+| NAME                                              | URL                                                                    | mailto                                          | APPRVL    | CfP1: Date       | Notes                   |
+|---------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------|-----------|------------------|-------------------------|
+| gamesnetwork list (related to DiGRA)              | list                                                                   | gamesnetwork-request@listserv.uta.fi            | gamesnetwork-request@listserv.uta.fi, mailto:gamesnetwork@listserv.uta.fi |           |                          |                         |
+| comp.ai google group                              | group                                                                  | https://groups.google.com/forum/?fromgroups#!forum/comp.ai | comp.ai@googlegroups.com | comp.ai@googlegroups.com, mailto:comp.ai@googlegroups.com | Reject    | 12/6/2018                |                         |
+| ML-news google groups                             | group                                                                  | https://groups.google.com/forum?hl=en&fromgroups#!forum/ml-news | ml-news@googlegroups.com | ml-news@googlegroups.com, | Reject    | 12/6/2018                |                         |
+| comp.multimedia                                   | group                                                                  | https://groups.google.com/forum/?fromgroups#!forum/comp.multimedia |                                                 |           |                          |                         |
+| Research - Musicology                             | list                                                                   | https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=MUSICOLOGY-ALL | MUSICOLOGY-ALL@jiscmail.ac.uk | MUSICOLOGY-ALL@jiscmail.ac.uk, mailto:MUSICOLOGY-ALL@jiscmail.ac.uk |           |                          |                    |
+| AIMI list                                         | list                                                                   | http://www.aimi-musica.org/                      | aimi@lists.aimi-musica.org | aimi@lists.aimi-musica.org, mailto:aimi@lists.aimi-musica.org |           |                          |                         |
+| Mamas Lab                                         | Lab                                                                    | www.metacreation.net                             | mamas-lab@sfu.ca | mamas-lab@sfu.ca, mailto:mamas-lab@sfu.ca |           |                          |                         |
+| Australian Network for Art and Technology         | list                                                                   | http://www.anat.org.au/                          | anat@anat.org.au | anat@anat.org.au, |           |                          |                         |
+| AI Matters: A Newsletter of ACM SIGAI             | list                                                                   | http://sigai.acm.org/aimatters/                  | SIGAI-ANNOUNCE@LISTSERV.ACM.ORG | SIGAI-ANNOUNCE@LISTSERV.ACM.ORG, |           |                          |                         |
+| Supercollider Users                               | list                                                                   |                                                 | sc-users@lists.bham.ac.uk | sc-users@lists.bham.ac.uk, |           |                          |                         |
+| MusicDSP                                          | list                                                                   |                                                 | music-dsp@music.columbia.edu | music-dsp@music.columbia.edu, |           |                          |                         |
+| The International Computer Music Association (ICMA) | list                                                                 |                                                 | icma@umich.edu | icma@umich.edu, |           |                          |                         |
+| Computer Music Mailing List in Brazil             | list                                                                   |                                                 | compmus-l@sbc.org.br | compmus-l@sbc.org.br, |           |                          |                         |
+| McGill Auditory mailing list                      | list                                                                   |                                                 | AUDITORY-request@lists.mcgill.ca | AUDITORY-request@lists.mcgill.ca, |           |                          |                         |
+| ACM SIGMM - the Special Interest Group on Multimedia (linked to CBMI, etc.) | list                                                                 |                                                 | sigmm@pi4.informatik.uni-mannheim.de | sigmm@pi4.informatik.uni-mannheim.de, | Reject    | 12/6/2018                |                         |
+| The International Conference on Auditory Display - ICAD | list                                                                 |                                                 | icad@santafe.edu | icad@santafe.edu, |           |                          |                         |
+| Association for Uncertainty in AI - UAI list      | list                                                                   |                                                 | uai@eecs.oregonstate.edu | uai@eecs.oregonstate.edu, |           |                          |                         |
+| CHI-ANNOUNCEMENTS                                 | list                                                                   |                                                 | CHI-ANNOUNCEMENTS@listserv.acm.org | CHI-ANNOUNCEMENTS@listserv.acm.org, |           |                          |                         |
+| DBWorld                                           | list                                                                   |                                                 | Dbworld@cs.wisc.edu | Dbworld@cs.wisc.edu, |           |                          |                         |
+| the Special Interest Group on Information Retrieval - ACM SIGIR | list                                                                 |                                                 | IRList@lists.shef.ac.uk | IRList@lists.shef.ac.uk, | Reject    | 12/6/2018                |                         |
+| User modeling                                     | list                                                                   | http://www.um.org/get-involved                   | um@di.unito.it | um@di.unito.it, |           |                          |                         |
+| ChucK forum                                       | list                                                                   |                                                 | chuck@lists.cs.princeton.edu | chuck@lists.cs.princeton.edu, |           |                          |                         |
+| ChucK forum                                       | list                                                                   |                                                 | chuck-users@lists.cs.princeton.edu | chuck-users@lists.cs.princeton.edu, |           |                          |                         |
+| ChucK forum                                       | list                                                                   |                                                 | chuck-dev@lists.cs.princeton.edu | chuck-dev@lists.cs.princeton.edu, |           |                          |                         |
+| siat faculty                                      | list                                                                   |                                                 | faculty-siat@sfu.ca | faculty-siat@sfu.ca, mailto:faculty-siat@sfu.ca |           |                          |                         |
+| siat grads                                        | list                                                                   |                                                 | siatgrad-students@sfu.ca | siatgrad-students@sfu.ca, |           |                          |                         |
+| Web audio community                               | list                                                                   |                                                 | public-audio-dev@w3.org | public-audio-dev@w3.org, | Verify    | 12/6/2018                |                         |
+| Live Algorithms mailing list                      | list                                                                   |                                                 | LAM@JISCMAIL.AC.UK | LAM@JISCMAIL.AC.UK, | Reject    | 12/6/2018                |                         |
+| Digicult                                          |                                                                       |                                                 | info@digicult.it | info@digicult.it, |           |                          |                         |
+
 
 gamesnetwork list (related to DiGRA)	list		gamesnetwork-request@listserv.uta.fi	gamesnetwork-request@listserv.uta.fi,	mailto:gamesnetwork@listserv.uta.fi																				
 comp.ai google group	group	https://groups.google.com/forum/?fromgroups#!forum/comp.ai	comp.ai@googlegroups.com	comp.ai@googlegroups.com,	mailto:comp.ai@googlegroups.com	Reject	12/6/2018																		
