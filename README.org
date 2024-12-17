@@ -8,9 +8,12 @@
 #+TODO: TODO WAITING IN-PROGRESS | DONE DEFERRED CANCELED 
 
 #+begin_quote
-Make and distribute CfP for conferences. See also
-- https://github.com/NIME-conference/cookbook
+Make and distribute CfP for conferences. See 
+- https://github.com/NIME-conference/cookbook or its published version
+- https://nime-conference.github.io/cookbook/ 
 #+end_quote
+
+** TODO migrate to markdown, and use actions for the tasks instead of org
 
 ** TODO Create an account and post to social media  MOCO20xx@gmail.com
 
@@ -18,8 +21,7 @@ Make and distribute CfP for conferences. See also
 
 They are here [[#Distribution]]
 
-
-*** DONE Webpage @ https://www.movementcomputing.org/moco20-call-for-papers
+*** DONE Webpage @ https://www.movementcomputing.org/mocoXX-call-for-papers
 CLOSED: [2019-12-02 Mon 07:59]
 
 
